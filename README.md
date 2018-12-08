@@ -17,3 +17,5 @@
    kolejny paragraf
 
 zmiany wprowadzone w nano
+
+Dodatkowe zmiany wprowadzone w atomie : 
