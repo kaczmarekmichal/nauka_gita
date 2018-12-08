@@ -1,7 +1,6 @@
 ## NAUKA GITA
 
 
-1. Lista poziom1 - item 1
 1. Lista poziom1 - item 2
    1. Lista poziom niszy
 1. Lista poziom1 - item 3
