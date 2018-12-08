@@ -15,3 +15,5 @@
    dodatkowe zmiany
 
    kolejny paragraf
+
+zmiany wprowadzone w nano
