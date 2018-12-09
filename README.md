@@ -21,3 +21,5 @@ Dodatkowe zmiany wprowadzone w atomie :
 
 
 Niedzielny commit poranny
+
+commit niedzielny wprowadzony na stronie github
