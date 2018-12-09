@@ -17,4 +17,7 @@
 
 zmiany wprowadzone w nano
 
-Dodatkowe zmiany wprowadzone w atomie : 
+Dodatkowe zmiany wprowadzone w atomie :
+
+
+Niedzielny commit poranny
